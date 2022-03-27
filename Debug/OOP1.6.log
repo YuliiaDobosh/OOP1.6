@@ -1,0 +1,5 @@
+﻿  OOP1.6.cpp
+  Rectangle.cpp
+C:\Users\HP\source\repos\OOP1.6\Rectangle.cpp(47,18): warning C4101: 'pair': unreferenced local variable
+  Generating Code...
+  OOP1.6.vcxproj -> C:\Users\HP\source\repos\OOP1.6\Debug\OOP1.6.exe
